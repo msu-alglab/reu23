@@ -1,0 +1,13 @@
+# vertices: 4
+# non supersource/sink edges: 3
+# sources: 0
+# sinks: 0
+graph is acyclic? True
+# cc: 1
+CC #1 size: 4
+aaa
+vvvb
+c
+d
+total vertices counted: 4
+total original vertices: 4
